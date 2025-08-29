@@ -1,20 +1,36 @@
 ### Understanding How Weather Impacts the Way People Interact with Places
-#### August 2025
+### August 2025
+
+---
 
 This repository provides the code for a research project analysing how weather affects footfall in UK retail areas. It combines footfall data, retail characteristics, and weather variables to build predictive models and identify trends across retail typologies.
 
-Data sources - proprietary footfall/retail from CACI
-Open
-- weather- Met office-
-  - haduk-grid temp and rain,
-  - mean wind station obs
-- Retail centre typologies Geographic data service (hyperlink https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)
+#### Data Sources
 
-Three notebooks- must be completed in oredr
-1. mobile_retail_processing.ipynb initial footfall and footfall data processing
-2. weatherdata_processing integrated weather vars
-3. modelling- models
+- **Proprietary:**
+  - Footfall and retail data from **CACI**.
 
-Any questions or..  can be directed to stefan.krysa.24@ucl.ac.uk
+- **Open Data:**
+  - **Weather (Met Office):**
+    - [HadUK-Grid](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid) temperature and rainfall data.
+    - Mean wind speed from station observations.
+  - **Retail Centre Typologies:**
+    - [Geographic Data Service – Retail Centre Boundaries and Indicators](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators).
 
-#### Stefan Krysa
+#### Repository Structure
+
+The analysis is organized into **three Jupyter notebooks**, which must be run in order:
+
+1. **`mobile_retail_processing.ipynb`**  
+   - Initial processing of footfall and retail data.
+
+2. **`weatherdata_processing.ipynb`**  
+   - Integration and processing of weather variables.
+
+3. **`modelling.ipynb`**  
+   - Predictive modelling and analysis.
+
+#### Contact
+
+For any questions or inquiries, please contact:  
+📧 **stefan.krysa.24@ucl.ac.uk**
