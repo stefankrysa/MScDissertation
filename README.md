@@ -28,8 +28,9 @@ The analysis is organized into **three Jupyter notebooks**, which must be run in
 2. **`weatherdata_processing.ipynb`**  
    - Integration and processing of weather variables.
 
-3. **`modelling.ipynb`**  
-   - Predictive modelling and analysis.
+3. **`modelling.ipynb`**
+    - Visualises weather–footfall relationships.
+    - Builds Random Forest models to estimate the impact of temperature, rainfall, and wind on footfall.
 
 #### Contact
 
