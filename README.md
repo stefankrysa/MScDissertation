@@ -1,4 +1,4 @@
-### Understanding How Weather Impacts the Way People Interact with Places
+### Understanding How Weather Impacts the Way People Interact with Places: An Analysis of Footfall across UK Retail Areas
 ### August 2025
 
 ---
