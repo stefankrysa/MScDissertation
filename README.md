@@ -1,8 +1,6 @@
 ### Understanding How Weather Impacts the Way People Interact with Places
-### Stefan Krysa
 #### August 2025
 
-This repository contains the code including data processing steps and analysis for a research project exploring the relationship between weather conditions and footfall patterns in retail areas across the UK. The study uses a combination of footfall data, retail characteristics, and weather variables to build predictive models for identifing patterns across retail typologies.
-
+This repository provides the code for a research project analysing how weather affects footfall in UK retail areas. It combines footfall data, retail characteristics, and weather variables to build predictive models and identify trends across retail typologies.
 
 ## Stefan Krysa
