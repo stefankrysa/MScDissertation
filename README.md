@@ -6,6 +6,7 @@
 This repository provides the code for a research project analysing how weather affects footfall in UK retail areas. It combines footfall data, retail characteristics, and weather variables to build predictive models and identify trends across retail typologies.
 
 #### Data Sources
+The study combines proprietary and open-source data to explore how weather impacts footfall patterns across UK retail areas.
 
 - **Proprietary:**
   - Footfall and retail data from **CACI**.
@@ -19,7 +20,7 @@ This repository provides the code for a research project analysing how weather a
 
 #### Repository Structure
 
-The analysis is organized into **three Jupyter notebooks**, which must be run in order:
+The analysis is organized into **three Jupyter notebooks**, which must be run in order.
 
 1. **`mobile_retail_processing.ipynb`**  
    - Initial processing of footfall and retail data.
