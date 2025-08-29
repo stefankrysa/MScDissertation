@@ -1,5 +1,4 @@
-# Understanding How Weather Impacts the Way People Interact with Places: An Analysis of Footfall across UK Retail Areas
-## August 2025
+## Understanding How Weather Impacts the Way People Interact with Places: An Analysis of Footfall across UK Retail Areas
 
 This repository provides the code for a research project analysing how weather affects footfall in UK retail areas. It combines footfall data, retail characteristics, and weather variables to build predictive models and identify trends across retail typologies.
 
