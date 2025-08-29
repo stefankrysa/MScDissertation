@@ -12,8 +12,8 @@ This repository provides the code for a research project analysing how weather a
 
 - **Open Data:**
   - **Weather (Met Office):**
-    - [HadUK-Grid](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid) temperature and rainfall data.
-    - Mean wind speed from station observations.
+    - [HadUK-Grid](https://catalogue.ceda.ac.uk/uuid/f02cc6ddd92f45b18b9ab6ab544df7d9/) temperature and rainfall data.
+    - [Mean wind speed](https://catalogue.ceda.ac.uk/uuid/91cb9985a6c2453d99084bde4ff5f314/) from station observations.
   - **Retail Centre Typologies:**
     - [Geographic Data Service – Retail Centre Boundaries and Indicators](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators).
 
