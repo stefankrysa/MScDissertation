@@ -5,7 +5,7 @@
 
 This repository provides the code for a research project analysing how weather affects footfall in UK retail areas. It combines footfall data, retail characteristics, and weather variables to build predictive models and identify trends across retail typologies.
 
-#### Data Sources
+### Data Sources
 The study combines proprietary and open-source data to explore how weather impacts footfall patterns across UK retail areas.
 
 - **Proprietary:**
@@ -18,7 +18,7 @@ The study combines proprietary and open-source data to explore how weather impac
   - **Retail Centre Typologies:**
     - [Geographic Data Service – Retail Centre Boundaries and Indicators](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators).
 
-#### Repository Structure
+### Repository Structure
 
 The analysis is organized into **three Jupyter notebooks**, which must be run in order.
 
@@ -33,7 +33,7 @@ The analysis is organized into **three Jupyter notebooks**, which must be run in
     - Visualises weather–footfall relationships.
     - Builds Random Forest models to estimate the impact of temperature, rainfall, and wind on footfall.
 
-#### Contact
+### Contact
 
 For any questions or inquiries, please contact:  
 📧 **stefan.krysa.24@ucl.ac.uk**
