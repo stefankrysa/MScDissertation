@@ -23,7 +23,8 @@ The study combines proprietary and open-source data to explore how weather impac
 The analysis is organized into **three Jupyter notebooks**, which must be run in order.
 
 1. **`mobile_retail_processing.ipynb`**  
-   - Initial processing of footfall and retail data.
+   - Cleans raw CACI footfall data.
+   - Merges footfall with retail centre boundaries and typological classifications. 
 
 2. **`weatherdata_processing.ipynb`**  
    - Integration and processing of weather variables.
