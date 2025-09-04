@@ -33,4 +33,4 @@ The analysis is organized into **three Jupyter notebooks**, which must be run in
 ### Contact
 
 For any questions or inquiries, please contact:  
-📧 **stefan.krysa.24@ucl.ac.uk**
+📧 **stefankrysa@gmail.com**
